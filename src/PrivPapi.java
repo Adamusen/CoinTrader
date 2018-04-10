@@ -6,8 +6,8 @@ import java.net.URL;
 import java.net.HttpURLConnection;
 
 public class PrivPapi {
-	private static final String pubkey = "DCC2820D-YCCJYJ7Q-MPVE0XO5-T1F47QXA";
-	private static final String privkey = "497abb4f5543fae2c05e5130117e18d0c9078d6ce85a2a3d94cf1adcee1dc2c9b8c45d8dd497b304dbe345c2721185a164ed196918fdd3f0935dae56e3961c45";
+	private static final String pubkey = "0";
+	private static final String privkey = "0";
 	
 	private static String encodeBySHA512(String msg, String key) {
 		String result = null;
