@@ -9,8 +9,8 @@ import java.util.Comparator;
 
 @SuppressWarnings("serial")
 public class PrivCapi {
-	private static final String pubkey = "f88a798f94df2461264f63af74a3ff4c5a24b86c";
-	private static final String privkey = "3556907620710f4ca24ee37d2431b92b9c8338a2b76de5370091e2b5dd11282dcb89f2b05e189225";
+	private static final String pubkey = "0";
+	private static final String privkey = "0";
 	
 	private static Object getSingleMarketTradesLock = new Object();
 	
