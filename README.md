@@ -4,3 +4,4 @@ A big bounch of not working showcase code in an attempt to make a profitable aut
 Even tho it does not work without the website API it used to connect to, the application can be still run to show how the GUI used to look like.
 
 This attempt was continued in my next project "BTrader" by using https://www.bitstamp.net/
+Then again in "PTrader" project. This one was purely for training and testing ML.
